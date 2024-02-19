@@ -7,4 +7,4 @@ Mini quize game is a small and easy program that requires the player to answer q
 To use the program, you need to have Visual Studio or another compilator. To run the program, type the following command in the terminal:
 
 ```bash
-python main.py
+Csharp .cs
